@@ -1,16 +1,12 @@
 # ci-cd-flask-demo
-demo CI/CD pipeline project
 
-# 🛠️ Flask CI/CD Pipeline Demo
+A beginner-friendly CI/CD pipeline project that automates building, testing, and deploying a simple Python Flask web application using **GitHub Actions** and **Docker**.
 
 # 🛠️ Flask CI/CD Pipeline Demo
 
 ![CI/CD](https://github.com/Samartha21BRS1698/ci-cd-flask-demo/actions/workflows/ci-cd.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.9-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-
-
-A beginner-friendly CI/CD pipeline project that automates building, testing, and deploying a simple Python Flask web application using **GitHub Actions** and **Docker**.
 
 ---
 
@@ -59,12 +55,9 @@ pytest
 
 ## ⚙️ GitHub Actions CI/CD
 
-![CI/CD](https://github.com/Samartha21BRS1698/ci-cd-flask-demo/actions/workflows/ci-cd.yml/badge.svg)
-
 > Automatically runs on every push to `main`: installs dependencies, runs tests, and builds Docker image.
 
-
-![alt text](image-1.png)
+![CI/CD](https://github.com/Samartha21BRS1698/ci-cd-flask-demo/actions/workflows/ci-cd.yml/badge.svg)
 
 ![Python](https://img.shields.io/badge/python-3.9-blue.svg)
 
@@ -74,7 +67,11 @@ pytest
 Automatically runs on every push to main:
 Installs dependencies, runs tests, and builds the Docker image.
 
-Demo Screenshot
+## Docker image
+Install Docker Desktop and connect to the project. View the containers running.
+![alt text](image-2.png) 
+
+## Demo Screenshot
 
 ![alt text](image.png)
 
